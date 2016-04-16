@@ -1,0 +1,3 @@
+rootProject.name = 'smokee'
+include 'smokee-core'
+
